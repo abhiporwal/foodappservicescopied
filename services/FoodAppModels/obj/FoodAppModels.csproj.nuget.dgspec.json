@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj": {}
+    "D:\\GitClone_FoodApp\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj": {
+    "D:\\GitClone_FoodApp\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj",
+        "projectUniqueName": "D:\\GitClone_FoodApp\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj",
         "projectName": "FoodAppModels",
-        "projectPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj",
-        "packagesPath": "C:\\Users\\Tejasi Porwal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\obj\\",
+        "projectPath": "D:\\GitClone_FoodApp\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj",
+        "packagesPath": "C:\\Users\\Pushkar\\.nuget\\packages\\",
+        "outputPath": "D:\\GitClone_FoodApp\\FoodAppServices\\services\\FoodAppModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tejasi Porwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Pushkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

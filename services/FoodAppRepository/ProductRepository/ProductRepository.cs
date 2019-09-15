@@ -21,7 +21,7 @@ namespace FoodAppRepository.ProductRepository
         }
         public IEnumerable<Product> GetProduct()
         {
-            var sql = "SELECT ProductID,ProductName,Location FROM product";
+            var sql = "SELECT * FROM foodapp.product;";
             var result = this._conn.Query<Product>(sql);
             return result;
         }
