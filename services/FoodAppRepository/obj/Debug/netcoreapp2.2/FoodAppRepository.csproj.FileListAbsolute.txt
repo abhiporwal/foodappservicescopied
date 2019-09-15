@@ -10,3 +10,15 @@ D:\GitClone_FoodApp\FoodAppRepository\obj\Debug\netcoreapp2.2\FoodAppRepository.
 D:\GitClone_FoodApp\FoodAppRepository\bin\Debug\netcoreapp2.2\FoodAppModels.dll
 D:\GitClone_FoodApp\FoodAppRepository\bin\Debug\netcoreapp2.2\FoodAppModels.pdb
 D:\GitClone_FoodApp\FoodAppRepository\obj\Debug\netcoreapp2.2\FoodAppRepository.csproj.CopyComplete
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\bin\Debug\netcoreapp2.2\FoodAppRepository.deps.json
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\bin\Debug\netcoreapp2.2\FoodAppRepository.dll
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\bin\Debug\netcoreapp2.2\FoodAppRepository.pdb
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\bin\Debug\netcoreapp2.2\FoodAppModels.dll
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\bin\Debug\netcoreapp2.2\FoodAppModels.pdb
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\obj\Debug\netcoreapp2.2\FoodAppRepository.csprojAssemblyReference.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\obj\Debug\netcoreapp2.2\FoodAppRepository.csproj.CoreCompileInputs.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\obj\Debug\netcoreapp2.2\FoodAppRepository.AssemblyInfoInputs.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\obj\Debug\netcoreapp2.2\FoodAppRepository.AssemblyInfo.cs
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\obj\Debug\netcoreapp2.2\FoodAppRepository.csproj.CopyComplete
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\obj\Debug\netcoreapp2.2\FoodAppRepository.dll
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppRepository\obj\Debug\netcoreapp2.2\FoodAppRepository.pdb

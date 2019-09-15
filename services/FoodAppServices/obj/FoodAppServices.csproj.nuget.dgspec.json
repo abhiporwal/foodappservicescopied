@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitClone_FoodApp\\FoodAppServices\\FoodAppServices.csproj": {}
+    "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppServices\\FoodAppServices.csproj": {}
   },
   "projects": {
-    "D:\\GitClone_FoodApp\\FoodAppModels\\FoodAppModels.csproj": {
+    "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitClone_FoodApp\\FoodAppModels\\FoodAppModels.csproj",
+        "projectUniqueName": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj",
         "projectName": "FoodAppModels",
-        "projectPath": "D:\\GitClone_FoodApp\\FoodAppModels\\FoodAppModels.csproj",
-        "packagesPath": "C:\\Users\\Pushkar\\.nuget\\packages\\",
-        "outputPath": "D:\\GitClone_FoodApp\\FoodAppModels\\obj\\",
+        "projectPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj",
+        "packagesPath": "C:\\Users\\Tejasi Porwal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pushkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Tejasi Porwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -56,21 +58,23 @@
         }
       }
     },
-    "D:\\GitClone_FoodApp\\FoodAppRepository\\FoodAppRepository.csproj": {
+    "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppRepository\\FoodAppRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitClone_FoodApp\\FoodAppRepository\\FoodAppRepository.csproj",
+        "projectUniqueName": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppRepository\\FoodAppRepository.csproj",
         "projectName": "FoodAppRepository",
-        "projectPath": "D:\\GitClone_FoodApp\\FoodAppRepository\\FoodAppRepository.csproj",
-        "packagesPath": "C:\\Users\\Pushkar\\.nuget\\packages\\",
-        "outputPath": "D:\\GitClone_FoodApp\\FoodAppRepository\\obj\\",
+        "projectPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppRepository\\FoodAppRepository.csproj",
+        "packagesPath": "C:\\Users\\Tejasi Porwal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pushkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Tejasi Porwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -82,8 +86,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\GitClone_FoodApp\\FoodAppModels\\FoodAppModels.csproj": {
-                "projectPath": "D:\\GitClone_FoodApp\\FoodAppModels\\FoodAppModels.csproj"
+              "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj": {
+                "projectPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj"
               }
             }
           }
@@ -120,21 +124,23 @@
         }
       }
     },
-    "D:\\GitClone_FoodApp\\FoodAppServices\\FoodAppServices.csproj": {
+    "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppServices\\FoodAppServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitClone_FoodApp\\FoodAppServices\\FoodAppServices.csproj",
+        "projectUniqueName": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppServices\\FoodAppServices.csproj",
         "projectName": "FoodAppServices",
-        "projectPath": "D:\\GitClone_FoodApp\\FoodAppServices\\FoodAppServices.csproj",
-        "packagesPath": "C:\\Users\\Pushkar\\.nuget\\packages\\",
-        "outputPath": "D:\\GitClone_FoodApp\\FoodAppServices\\obj\\",
+        "projectPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppServices\\FoodAppServices.csproj",
+        "packagesPath": "C:\\Users\\Tejasi Porwal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pushkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Tejasi Porwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -146,11 +152,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\GitClone_FoodApp\\FoodAppModels\\FoodAppModels.csproj": {
-                "projectPath": "D:\\GitClone_FoodApp\\FoodAppModels\\FoodAppModels.csproj"
+              "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj": {
+                "projectPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppModels\\FoodAppModels.csproj"
               },
-              "D:\\GitClone_FoodApp\\FoodAppRepository\\FoodAppRepository.csproj": {
-                "projectPath": "D:\\GitClone_FoodApp\\FoodAppRepository\\FoodAppRepository.csproj"
+              "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppRepository\\FoodAppRepository.csproj": {
+                "projectPath": "C:\\Users\\Tejasi Porwal\\Desktop\\New folder (2)\\FoodAppServices\\services\\FoodAppRepository\\FoodAppRepository.csproj"
               }
             }
           }
@@ -180,6 +186,14 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
             }
           },
           "imports": [

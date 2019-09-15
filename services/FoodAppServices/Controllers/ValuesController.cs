@@ -27,7 +27,7 @@ namespace FoodAppServices.Controllers
         //  //  return new string[] { "abhinav  LLB", "value2" };
         //}
         // GET api/values
-        [HttpGet]
+        [HttpGet("value/GetProduct")]
         public IActionResult GetProductDetail()
         {
             IEnumerable<Product> products = _productRepository.GetProduct();

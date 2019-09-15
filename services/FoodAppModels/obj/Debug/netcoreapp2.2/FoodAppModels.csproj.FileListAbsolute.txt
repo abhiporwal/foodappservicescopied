@@ -9,3 +9,14 @@ D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.Assembly
 D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.dll
 D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.pdb
 D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.csprojAssemblyReference.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.deps.json
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.runtimeconfig.json
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.runtimeconfig.dev.json
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.dll
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.pdb
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.csprojAssemblyReference.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.csproj.CoreCompileInputs.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.AssemblyInfoInputs.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.AssemblyInfo.cs
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.dll
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.pdb

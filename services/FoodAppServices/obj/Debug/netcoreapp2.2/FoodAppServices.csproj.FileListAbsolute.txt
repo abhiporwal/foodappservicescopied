@@ -17,3 +17,22 @@ D:\GitClone_FoodApp\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppRepository.dl
 D:\GitClone_FoodApp\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppRepository.pdb
 D:\GitClone_FoodApp\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppModels.pdb
 D:\GitClone_FoodApp\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.csproj.CopyComplete
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppServices.deps.json
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppServices.runtimeconfig.json
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppServices.runtimeconfig.dev.json
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppServices.dll
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppServices.pdb
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppModels.dll
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppRepository.dll
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppModels.pdb
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\bin\Debug\netcoreapp2.2\FoodAppRepository.pdb
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.csprojAssemblyReference.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.csproj.CoreCompileInputs.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.RazorAssemblyInfo.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.RazorAssemblyInfo.cs
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.AssemblyInfoInputs.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.AssemblyInfo.cs
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.RazorTargetAssemblyInfo.cache
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.csproj.CopyComplete
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.dll
+C:\Users\Tejasi Porwal\Desktop\New folder (2)\FoodAppServices\services\FoodAppServices\obj\Debug\netcoreapp2.2\FoodAppServices.pdb
