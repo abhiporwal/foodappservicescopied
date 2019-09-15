@@ -1,0 +1,11 @@
+D:\GitClone_FoodApp\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.deps.json
+D:\GitClone_FoodApp\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.runtimeconfig.json
+D:\GitClone_FoodApp\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.runtimeconfig.dev.json
+D:\GitClone_FoodApp\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.dll
+D:\GitClone_FoodApp\FoodAppModels\bin\Debug\netcoreapp2.2\FoodAppModels.pdb
+D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.csproj.CoreCompileInputs.cache
+D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.AssemblyInfoInputs.cache
+D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.AssemblyInfo.cs
+D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.dll
+D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.pdb
+D:\GitClone_FoodApp\FoodAppModels\obj\Debug\netcoreapp2.2\FoodAppModels.csprojAssemblyReference.cache
